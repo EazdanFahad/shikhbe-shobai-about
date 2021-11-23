@@ -1,0 +1,77 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.head{
+	text-align: center;
+	margin-left: 100px;
+	margin-top: 20px;
+
+}
+.head li{
+	color: #1E266D;
+	list-style: none;
+	display: inline-block;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 40px;
+}
+.head button{
+	width: 80px;
+	height: 40px;
+	background-color: #2E367D;
+	color: white;
+	border: none;
+	border-radius: 8px;
+	
+}
+button:hover{
+	background-color: #71DFE7
+}
+.head img{
+	width: 100px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+.hp h1{
+	margin-top: 70px;
+	margin-left: 120px;
+	color: #1E266D
+}
+.ph p{
+	margin-top: 20px;
+	margin-left: 120px;
+	line-height: 27px;
+	font-size: 20px;
+	
+
+
+}
+.ph h1{
+		margin-top: 40px;
+	margin-left: 120px;
+	
+}
+.nw{
+	margin-top: 100px;
+	margin-left: 150px;
+	margin-bottom: 100px;
+	background-color: #2E367D;
+	margin-right: 150px;
+	width: 1000px;
+	height: 100px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 60px;
+	border-radius: 30px;
+	color: white;
+}
+.nw h1:hover{
+	color: black;
+
+}
+.nw p:hover{
+	color: black;
+}
+
